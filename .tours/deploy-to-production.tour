@@ -8,14 +8,14 @@
       "line": 1
     },
     {
-      "file": "docker-compose.yml",
-      "description": "The `server container` will be built as described the in the file `./server/Dockerfile` ",
-      "line": 5
-    },
-    {
       "file": "server/Dockerfile",
       "description": "The `Dockerfile` specifies the node version.\n\nFor production it is important to think that the application must be deployed without issues in several years.\n\nUsing the latest node version might be an issue with our code in the future.",
       "line": 1
+    },
+    {
+      "file": "docker-compose.yml",
+      "description": "The `server container` will be built as described the in the file `./server/Dockerfile` ",
+      "line": 5
     },
     {
       "file": "server/Dockerfile",
